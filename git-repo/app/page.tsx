@@ -20,9 +20,9 @@ export default function Home() {
         </div>
       </div>
 
-      <div className={styles.center}>
+      {/* <div className={styles.center}>
         <h2>Git Repo</h2>
-      </div>
+      </div> */}
 
       <div className={styles.grid}>
         <a
